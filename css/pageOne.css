@@ -1,0 +1,14 @@
+.container{
+    background: rgba(39, 9, 173, 0.787);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+body{
+    background: url('https://cdn.shopify.com/s/files/1/2198/0277/products/2001111-2_2400x.jpg?v=1571716860');
+}
+
+h1{
+    color: gold;
+}
