@@ -10,5 +10,54 @@ body{
 }
 
 h1{
-    color: gold;
+    color: rgb(247, 230, 0);
+    font-family: 'Permanent Marker', cursive;
+    /* font-size: 45px; */
+    /* font-family: 'Monoton', cursive; */
+    /* font-family: 'Rock Salt', cursive; */
+    font-size: 45px;
+}
+
+.bd-footer-links li {
+    display: inline-block;
+}
+
+/* li {
+    text-align: center;
+} */
+
+ul{
+    list-style-type: none;
+}
+
+/* .bd-footer {
+    flex-direction: row;
+    /* text-align: center; } */
+
+
+footer{
+    margin-top: 385px;
+    background: rgba(39, 9, 173, 0.787);
+    /* padding-top: 40px; */
+}
+
+.space{
+    margin-right: 50px;
+}
+
+/* .UFO{
+    padding-bottom: 55px;
+} */
+
+
+/* .carousel-item{
+    max-width: 1000px;
+    max-height: 600px ;
+    margin-right: auto;
+    margin-left: auto;
+} */
+
+.d-block{
+    margin-top: 200px;
+    margin-left: 600px;
 }
