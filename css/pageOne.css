@@ -57,18 +57,54 @@ footer{
     margin-left: auto;
 } */
 
-.d-block{
+/* The first carosel slide */
+.jock{
     margin-top: 200px;
     margin-left: 600px;
     margin-bottom: 20px;
     box-shadow: 15px 15px rgba(0, 0, 0, 0.705);
 }
 
+/* bar label */
 .water{
     background: rgba(0, 0, 0, 0.596);
-    margin-left: 315px;
+    margin-left: 314px;
     margin-right: 349px;
 }
+/* slide one end */
+
+
+/* the second carosel slide */
+.hockey{
+    margin-top: 200px;
+    margin-left: 580px;
+    margin-bottom: 20px;
+    box-shadow: 15px 15px rgba(0, 0, 0, 0.705);
+}
+
+/* the bar label */
+.nihao{
+    background: rgba(0, 0, 0, 0.596);
+    margin-right: 300px;
+    margin-left: 295px;
+}
+
+/* slide two end */
+.cake{
+    margin-top: 200px;
+    margin-left: 710px;
+    margin-bottom: 20px;
+    box-shadow: 15px 15px rgba(0, 0, 0, 0.705);
+}
+
+.hoho{
+    background: rgba(0, 0, 0, 0.596);
+    margin-right: 539px;
+    margin-left: 425px;
+}
+/* slide 3 */
+
+
 
 .carousel-control-prev-icon {
     height: 20%;
