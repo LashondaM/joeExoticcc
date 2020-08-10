@@ -36,7 +36,7 @@ ul{
 
 
 footer{
-    margin-top: 385px;
+    margin-top: 370px;
     background: rgba(39, 9, 173, 0.787);
     /* padding-top: 40px; */
 }
@@ -60,10 +60,23 @@ footer{
 .d-block{
     margin-top: 200px;
     margin-left: 600px;
+    margin-bottom: 20px;
+    box-shadow: 15px 15px rgba(0, 0, 0, 0.705);
 }
 
 .water{
     background: rgba(0, 0, 0, 0.596);
     margin-left: 315px;
     margin-right: 349px;
+}
+
+.carousel-control-prev-icon {
+    height: 20%;
+    top: 33%;
+    width: 60px;
+}
+.carousel-control-next-icon {
+    height: 20%;
+    top: 33%;
+    width: 60px;
 }
