@@ -38,7 +38,7 @@ ul{
 
 
 footer{
-    margin-top: 370px;
+    margin-top: 280px;
     background: rgba(39, 9, 173, 0.787);
     /* padding-top: 40px; */
 }
@@ -62,57 +62,16 @@ footer{
 } */
 
 /* The first carosel slide */
-.jock{
-    margin-top: 200px;
-    margin-right: 260px;
-    margin-left: 285px;
-    margin-bottom: 20px;
+/* .jock{
+   margin: auto;
+   
     box-shadow: 15px 15px rgba(0, 0, 0, 0.705);
+} */
+
+
+.d-block{
+    background: rgba(0, 0, 0, 0.63);
 }
-
-/* bar label */
-.water{
-    background: rgba(0, 0, 0, 0.596);
-    margin-left: 96px;
-    margin-right: 110px;
-}
-/* slide one end */
-
-
-/* the second carosel slide */
-.hockey{
-    margin-top: 200px;
-    margin-right: 265px;
-    margin-left: 265px;
-    margin-bottom: 20px;
-    box-shadow: 15px 15px rgba(0, 0, 0, 0.705);
-}
-
-/* the bar label */
-.nihao{
-    background: rgba(0, 0, 0, 0.596);
-    margin-right: 70px;
-    margin-left: 76px;
-}
-
-/* slide two end */
-.cake{
-    margin-top: 200px;
-    margin-right: 50px;
-    margin-left: 460px;
-    margin-bottom: 20px;
-    box-shadow: 15px 15px rgba(0, 0, 0, 0.705);
-}
-
-/* bar label */
-
-.hoho{
-    background: rgba(0, 0, 0, 0.705);
-    margin-right: 244px;
-    margin-left: 270.5px;
-}
-/* slide 3 */
-
 
 
 .carousel-control-prev-icon {
@@ -124,4 +83,9 @@ footer{
     height: 20%;
     top: 33%;
     width: 60px;
+}
+
+.jock {
+    width: 50%;
+    margin: auto;
 }
