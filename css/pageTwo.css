@@ -22,7 +22,7 @@ body{
 
 
 footer{
-    margin-top: 370px;
+    margin-top: 200px;
     background: rgba(39, 9, 173, 0.787);
     /* padding-top: 40px; */
 }
@@ -36,9 +36,3 @@ ul{
 }
 
 
-/* JUMBOTRON */
-
-.cotton{
-    
-    text-align: center;
-}
