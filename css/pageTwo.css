@@ -22,7 +22,7 @@ body{
 
 
 footer{
-    margin-top: 200px;
+    margin-top: 40px;
     background: rgba(39, 9, 173, 0.787);
     /* padding-top: 40px; */
 }
@@ -36,3 +36,10 @@ ul{
 }
 
 
+.btn{
+    margin: 10px;
+}
+
+.card{
+    height: 450px;
+}
