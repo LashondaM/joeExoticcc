@@ -17,12 +17,14 @@
 }
 
 body{
-    background: url('https://cdn.shopify.com/s/files/1/2198/0277/products/2001111-2_2400x.jpg?v=1571716860');
+    
+    background: url('../leaveS.jpg');
+    /* background: url('https://cdn.shopify.com/s/files/1/2198/0277/products/2001111-2_2400x.jpg?v=1571716860'); */
 }
 
 
 footer{
-    margin-top: 0px;
+    margin-bottom: 0px;
     background: rgba(39, 9, 173, 0.787);
     /* padding-top: 40px; */
 }
@@ -66,3 +68,4 @@ img{
     color: white;
     /* padding-top: 20px; */
 }
+
