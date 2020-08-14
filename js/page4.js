@@ -22,7 +22,7 @@ var posts = [{
 var postHTML = ''
 for(var i = 0; i < posts.length; i++) {
     var heading = "<div class='post'><h2>"+posts[i].title+"</h2>";
-    var image = '<img src=' +posts[i].picture + '></img'
+    var image = '<a href="#"><img src=' +posts[i].picture + '></img></a>'
     var body = "<p>"+posts[i].post+"</p></div>";
     var concatThis = heading + image +'<br>' + body;
     postHTML += concatThis;
