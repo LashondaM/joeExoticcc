@@ -22,7 +22,7 @@ body{
 
 
 footer{
-    margin-top: 300px;
+    margin-top: 0px;
     background: rgba(39, 9, 173, 0.787);
     /* padding-top: 40px; */
 }
@@ -36,10 +36,20 @@ ul{
 }
 
 
-.btn{
+/* .btn-light{
     margin: 10px;
+} */
+
+
+img{
+    border-radius: 10px;
+    max-width: 210px;
+    max-height: auto;
 }
 
-/* .card{
-    height: 450px;
-} */
+#animals{
+    max-width: 1278px;
+    background: rgba(7, 27, 82, 0.534);
+    color: white;
+    /* padding-top: 20px; */
+}

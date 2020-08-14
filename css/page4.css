@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.container{
+    background: rgba(39, 9, 173, 0.787);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+h1{
+    color: rgb(247, 230, 0);
+    font-family: 'Permanent Marker', cursive;
+    /* font-size: 45px; */
+    /* font-family: 'Monoton', cursive; */
+    /* font-family: 'Rock Salt', cursive; */
+    font-size: 45px;
+}
+
+body{
+    background: url('https://cdn.shopify.com/s/files/1/2198/0277/products/2001111-2_2400x.jpg?v=1571716860');
+}
+
+
+footer{
+    margin-top: 0px;
+    background: rgba(39, 9, 173, 0.787);
+    /* padding-top: 40px; */
+}
+
+ul{
+    list-style-type: none;
+}
+
+.bd-footer-links li {
+    display: inline-block;
+}
+
+/* .btn{
+    margin: 10px;
+} */
+
+img{
+    border-radius: 10px;
+    max-width: 230px;
+    max-height: auto;
+}
+
+#merch{
+    background: rgba(7, 27, 82, 0.534);
+    color: white;
+}
